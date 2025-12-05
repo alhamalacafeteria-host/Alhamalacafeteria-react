@@ -1,0 +1,13 @@
+{
+  "sales": [
+    {
+      "id": "049fa03b-6b45-4415-a693-c88030123fa9",
+      "date": "2025-12-05",
+      "type": "online-revenue",
+      "amount": 20000,
+      "description": "innathgey laabham",
+      "addedBy": "Staff Member",
+      "timestamp": "2025-12-05T19:21:23.433Z"
+    }
+  ]
+}
